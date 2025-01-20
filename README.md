@@ -1,4 +1,5 @@
 # Churn Analysis Project
+<h3>Video Demo: https://youtu.be/Irzu8DiimKA</h3>
 <div>
   <h2>Project Target</h2>
   <p>Create an entire ETL process in a database & a Power BI dashboard to utilize the Customer Data and achieve the following goals:</p>
@@ -21,3 +22,7 @@
     <li>New Joiners</li>
   </ul>
 </div>
+<h2>Sumaryy</h2>
+<img src="Summary.png">
+<h2>Predict</h2>
+<img src="Predict.png">
